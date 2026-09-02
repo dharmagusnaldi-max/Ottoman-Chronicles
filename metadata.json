@@ -1,0 +1,7 @@
+{
+  "name": "Ottoman Chronicles",
+  "description": "Game interaktif edukatif sejarah Daulah Utsmaniyah: alur cerita sinematik, 15 tantangan sejarah, analisis peradaban, dan sistem badge kebijaksanaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
